@@ -6,12 +6,19 @@ The naming convention of lessons covering "Statistical Inference" is Presentatio
 
 The lesson_nav folder contains the same lessons featured in the lessons folder in a more easily navigable directory structure.
 
-##License
-###Content
+Licenses:
+
+
+Content:
 The course content is licensed under the Creative Commons Attribution 4.0 International License.
 
 
-###Website Theme
+
+
+
+
+
+Website Theme:
 The website uses the Minimal Mistakes theme created by Michael Rose, licensed under the MIT License:
 The MIT License (MIT)
 
