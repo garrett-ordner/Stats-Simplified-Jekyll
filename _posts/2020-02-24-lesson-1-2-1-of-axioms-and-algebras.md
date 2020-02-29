@@ -7,11 +7,9 @@ layout: post
 guid: http://sites.localhost/wp/statssimplified/?p=59
 permalink: "/2020/02/24/lesson-1-2-1-of-axioms-and-algebras/"
 categories:
-- Axioms
 - Casella-Berger
 - Chapter 1
 - Section 1.2
-- Theory
 tags:
 - axioms
 - Borel fields

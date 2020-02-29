@@ -10,8 +10,6 @@ categories:
 - Casella-Berger
 - Chapter 1
 - Section 1.1
-- Set Theory
-- Theory
 tags:
 - events
 - set theory
