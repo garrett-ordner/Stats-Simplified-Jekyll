@@ -4,8 +4,8 @@ main:
      url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Lesson Index"
      url: /lessons
-#   - title: "Sample Posts"
-#     url: /year-archive/
+   - title: "Lesson Directory"
+     url: /lesson_nav/
 #   - title: "Sample Collections"
 #     url: /collection-archive/
 #   - title: "Sitemap"
