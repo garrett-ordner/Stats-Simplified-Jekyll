@@ -17,4 +17,4 @@ tags:
 
 Now it&#8217;s getting serious.  We&#8217;ve established the axioms of probability, but there is so much more to be done with them!  Some of it, sadly, gets a little involved.  Luckily, our old friends the coin and the die are back to illustrate the properties we&#8217;ll prove here. The Powerpoint version of this presentation can be downloaded here: [Presentation 1-2-3 Axioms and Consequences](/lessons/Presentation-1-2-3-Axioms-and-Consequences.pptx)
 
-<object data="/lessons/Presentation-1-2-3-Axioms-and-Consequences.pdf" width="1000" height="1000" type='application/pdf'/>
+<iframe src="/lessons/Presentation-1-2-3-Axioms-and-Consequences.pdf" width="1000" height="1000"> </iframe>

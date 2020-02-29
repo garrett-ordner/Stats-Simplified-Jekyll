@@ -20,4 +20,4 @@ We're ready to start working toward an axiomatic definition of probability.  Fi
 
 Note:  Casella and Berger don't really distinguish Borel fields from the more general concept of sigma algebras, so neither does this lesson, but it&#8217;s not really relevant to future lessons.
 
-<object data="/lessons/Presentation-1-2-1-Borel-Fields-and-Kolmogorov-Axioms.pdf" width="1000" height="1000" type='application/pdf'/>
+<iframe src="/lessons/Presentation-1-2-1-Borel-Fields-and-Kolmogorov-Axioms.pdf" width="1000" height="1000"> </iframe>
