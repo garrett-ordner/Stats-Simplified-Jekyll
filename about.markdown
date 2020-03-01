@@ -3,7 +3,7 @@ layout: splash
 title: About
 permalink: /about/
 header:
-  overlay_image: /assets/images/Cropped-Title-Slide.png
+  overlay_image: /assets/images/blank-overlay.png
 ---
 
 Hi!  Welcome to StatsSimplified.org, a free online course that aims to explain and illustrate probability and statistics through short lessons that follow along with "Statistical Inference" (2nd Ed.) by George Casella and Roger Berger.

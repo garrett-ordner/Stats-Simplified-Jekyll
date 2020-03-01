@@ -5,5 +5,5 @@
 layout: categories
 title:  Lessons
 header:
-  overlay_image: /assets/images/Cropped-Title-Slide.png
+  overlay_image: /assets/images/blank-overlay.png
 ---
