@@ -5,5 +5,5 @@
 layout: categories
 title:  Lessons
 header:
-  overlay_image: /assets/images/blank-bg.png
+  overlay_color: "#2B2B2D"
 ---
