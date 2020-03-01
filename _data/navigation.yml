@@ -6,10 +6,10 @@ main:
      url: /index
    - title: "About"
      url: /about
-   - title: "Lesson Index"
-     url: /post_list
-#   - title: "Lesson Directory"
-#    url: /lesson_nav/
+   - title: "Theory"
+     url: /cbl-index
+   - title: "Coding"
+     url: /cdl-index
 #   - title: "Sample Collections"
 #     url: /collection-archive/
 #   - title: "Sitemap"

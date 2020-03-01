@@ -8,8 +8,7 @@ guid: http://sites.localhost/wp/statssimplified/?p=110
 permalink: "/2020/02/28/lesson-1-2-3-axioms-and-consequences/"
 categories:
 - Casella-Berger
-- Chapter 1
-- Section 1.2
+- CBL 1.2
 tags:
 - axioms
 - theory

@@ -8,8 +8,7 @@ guid: http://sites.localhost/wp/statssimplified/?p=11
 permalink: "/2020/02/24/lesson-1-1-1-the-sample-space-and-events/"
 categories:
 - Casella-Berger
-- Chapter 1
-- Section 1.1
+- CBL 1.1
 tags:
 - events
 - sample space

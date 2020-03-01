@@ -8,8 +8,7 @@ guid: http://sites.localhost/wp/statssimplified/?p=61
 permalink: "/2020/02/24/lesson-1-2-2-the-axioms-explained/"
 categories:
 - Casella-Berger
-- Chapter 1
-- Section 1.2
+- CBL 1.2
 tags:
 - axioms
 ---

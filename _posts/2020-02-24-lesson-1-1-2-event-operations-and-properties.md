@@ -8,11 +8,12 @@ guid: http://sites.localhost/wp/statssimplified/?p=52
 permalink: "/2020/02/24/lesson-1-1-2-event-operations-and-properties/"
 categories:
 - Casella-Berger
-- Chapter 1
-- Section 1.1
+- CBL 1.1
 tags:
 - events
 - set theory
+cb-sections: 
+- "Section 1.1"
 ---
 
 This lesson explores event operations, specifically unions, intersections, and complementation, as well as the properties of these operations with detailed visualizations.  I realize that despite my best efforts, some of the illustrations may not perfectly communicate the property in question, so it is important to try to understand the notation. The Powerpoint version of this presentation can be downloaded here: [Presentation 1-1-2 Event Operations and Properties](/lessons/Presentation-1-1-2-Event-Operations-and-Properties.pptx)
