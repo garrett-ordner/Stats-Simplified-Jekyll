@@ -5,29 +5,18 @@ layout: archive
 {{ content }}
 {% assign sorted-cats = site.categories | sort %}
 
-{% assign categories_max = 0 %}
-{% for category in sorted-cats %}
-	{% if category[0] contains 'CBL' %}
-	  {% if category[1].size > categories_max %}
-		{% assign categories_max = category[1].size %}
-	  {% endif %}
-	{% endif %}
-{% endfor %}
+
 
 <ul class="taxonomy__index">
-
     {% for category in sorted-cats %}
-		{% if category[0] contains 'CBL' %}
-		 
+		{% if category[0] contains 'CBL' %}		 
 			<li>
 			  <a href="#{{ category[0] | slugify }}">
 				<strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ category[1].size }}</span>
 			  </a>
-			</li>
-		 
+			</li>	 
 		{% endif %}  
     {% endfor %}
-
 </ul>
 
 
