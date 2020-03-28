@@ -32,11 +32,10 @@
   {%- assign author_twitter = author.twitter | replace: "@", "" -%}
 {%- endif -%}
 
-{% comment %}
-{%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image -%}
-{% endcomment %}
 
-{%- assign page_large_image = page.header.og_image -%}
+{%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image -%}
+{%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image -%}
+
 {%- unless page_large_image contains '://' -%}
   {%- assign page_large_image = page_large_image | absolute_url -%}
 {%- endunless -%}
