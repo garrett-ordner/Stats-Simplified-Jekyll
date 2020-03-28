@@ -7,13 +7,31 @@
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+
+<meta property="og:title" content="{% if page.title %}
+      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}">
+	
+<meta property="og:description"
+    content="{% if page.excerpt %}
+        {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+      {% else %}
+        {{ site.description }}
+      {% endif %}">
+
+<meta  property="og:image" content="/assets/images/Cropped-Title-Slide.png/" />
+
+<meta property="og:url"
+    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+	
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-
 <!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
@@ -28,7 +46,6 @@
     }
   </style>
 <![endif]-->
-
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
     {% if script contains "://" %}
