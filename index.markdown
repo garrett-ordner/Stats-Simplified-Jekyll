@@ -5,7 +5,6 @@
 layout: home
 header:
   image: /assets/images/Cropped-Title-Slide.png
-image: /assets/images/Cropped-Title-Slide.png
 ---
 
 
