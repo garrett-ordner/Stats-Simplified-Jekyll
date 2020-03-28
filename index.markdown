@@ -5,7 +5,7 @@
 layout: home
 header:
   image: /assets/images/Cropped-Title-Slide.png
-  og_image: /assets/images/social-pic.png
+  og_image: /assets/images/social-pic.PNG
 ---
 
 
