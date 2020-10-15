@@ -20,6 +20,6 @@ cb-sections:
 - "Section 1.2"
 ---
 
-This lesson rounds out our primer on set theory by introducing operators that allow us to take the union or intersection of many (or even infinitely many) sets at once.  We also look at an example of such an infinite union and intersection.  We end the lesson with some very important definitions:  disjoint, pairwise disjoint, and partition. The Powerpoint version of this presentation can be downloaded here: [Presentation 1-1-3 Set Theory Conclusion](/lessons/Presentation-1-1-3-Set-Theory-Conclusion.pptx)
+This lesson rounds out our primer on set theory by introducing operators that allow us to take the union or intersection of many (or even infinitely many) sets at once.  We also look at an example of such an infinite union and intersection.  We end the lesson with some very important definitions:  disjoint, pairwise disjoint, and partition. If you're on mobile, you can view the lesson here: [Presentation 1-1-3 Set Theory Conclusion](/lessons/Presentation-1-1-3-Set-Theory-Conclusion.pdf)
 
 <iframe src="/lessons/Presentation-1-1-3-Set-Theory-Conclusion.pdf" width="1000" height="1000"> </iframe>

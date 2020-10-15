@@ -15,6 +15,6 @@ tags:
 - set theory
 ---
 
-This lesson begins our journey with the introduction of the sample space, and the events therein.  The Powerpoint version of this presentation can be downloaded here: [Presentation 1-1-1 Sample Space and Events](/lessons/Presentation-1-1-1-Sample-Space-and-Events.pptx)
+This lesson begins our journey with the introduction of the sample space, and the events therein.  If you're on mobile, you can view the lesson here: [Presentation 1-1-1 Sample Space and Events](/lessons/Presentation-1-1-1-Sample-Space-and-Events.pdf)
 
 <iframe src="/lessons/Presentation-1-1-1-Sample-Space-and-Events.pdf" width="1000" height="1000"></iframe>

@@ -10,6 +10,6 @@ tags:
 - theory
 ---
 
-Short final lesson on calculating probabilities by counting. The OpenOffice version of this presentation can be downloaded here: [Presentation 1-2-7: Finishing Up](/lessons/Presentation-1-2-7-Finishing-Up.odp)
+Short final lesson on calculating probabilities by counting. If you're on mobile, you can view the lesson here: [Presentation 1-2-7: Finishing Up](/lessons/Presentation-1-2-7-Finishing-Up.pdf)
 
 <iframe src="/lessons/Presentation-1-2-7-Finishing-Up.pdf" width="1000" height="1000"> </iframe>

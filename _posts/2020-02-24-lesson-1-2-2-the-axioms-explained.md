@@ -13,6 +13,6 @@ tags:
 - axioms
 ---
 
-Now we&#8217;re getting to the good stuff!  We&#8217;re not only taking a deeper dive into the axioms of probability, we&#8217;re also proving that a (relatively) simple function satisfies all three of the axioms and gives us an easier way to define probability.  I know some of this looks a little intimidating, but there are plenty of annotations to guide you through the math.  Plus, it&#8217;s fun! The Powerpoint version of this presentation can be downloaded here: [Presentation 1-2-2 Probability Axioms Explained](/lessons/Presentation-1-2-2-Probability-Axioms-Explained.pptx)
+Now we&#8217;re getting to the good stuff!  We&#8217;re not only taking a deeper dive into the axioms of probability, we&#8217;re also proving that a (relatively) simple function satisfies all three of the axioms and gives us an easier way to define probability.  I know some of this looks a little intimidating, but there are plenty of annotations to guide you through the math.  Plus, it&#8217;s fun! If you're on mobile, you can view the lesson here: [Presentation 1-2-2 Probability Axioms Explained](/lessons/Presentation-1-2-2-Probability-Axioms-Explained.pdf)
 
 <iframe src="/lessons/Presentation-1-2-2-Probability-Axioms-Explained.pdf" width="1000" height="1000"> </iframe>

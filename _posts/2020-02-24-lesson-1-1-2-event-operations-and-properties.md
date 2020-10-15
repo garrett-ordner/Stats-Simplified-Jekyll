@@ -16,6 +16,6 @@ cb-sections:
 - "Section 1.1"
 ---
 
-This lesson explores event operations, specifically unions, intersections, and complementation, as well as the properties of these operations with detailed visualizations.  I realize that despite my best efforts, some of the illustrations may not perfectly communicate the property in question, so it is important to try to understand the notation. The Powerpoint version of this presentation can be downloaded here: [Presentation 1-1-2 Event Operations and Properties](/lessons/Presentation-1-1-2-Event-Operations-and-Properties.pptx)
+This lesson explores event operations, specifically unions, intersections, and complementation, as well as the properties of these operations with detailed visualizations.  I realize that despite my best efforts, some of the illustrations may not perfectly communicate the property in question, so it is important to try to understand the notation. If you're on mobile, you can view the lesson here: [Presentation 1-1-2 Event Operations and Properties](/lessons/Presentation-1-1-2-Event-Operations-and-Properties.pdf)
 
 <iframe src="/lessons/Presentation-1-1-2-Event-Operations-and-Properties.pdf" width="1000" height="1000"> </iframe>
