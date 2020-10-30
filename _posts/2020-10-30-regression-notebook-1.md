@@ -16,7 +16,7 @@ The sample data I'm using for this is 3_1_Generator_Y2019.xlsx from form EIA-860
 
 ```python
 import pandas as pd
-data = pd.read_excel (r'C:\Users\garre\Documents\Job Search\0_Human Capital Development\Statistical Methods\EIA-860\3_1_Generator_Y2019.xlsx', sheet_name = 'Operable', header=1)
+data = pd.read_excel (r'C:\Users\garre\Documents\Python Scripts\datasets\EIA-860\3_1_Generator_Y2019.xlsx', sheet_name = 'Operable', header=1)
 ```
 
 
