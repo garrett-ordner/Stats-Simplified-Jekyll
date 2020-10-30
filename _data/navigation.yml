@@ -10,6 +10,8 @@ main:
      url: /cbl-index
    - title: "Coding"
      url: /cdl-index
+   - title: "Methods"
+     url: /mtd-index
 #   - title: "Sample Collections"
 #     url: /collection-archive/
 #   - title: "Sitemap"
