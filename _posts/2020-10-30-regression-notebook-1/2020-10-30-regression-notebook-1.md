@@ -44,7 +44,7 @@ data.boxplot(column = 'Nameplate Capacity (MW)', by = 'Prime Mover', figsize = (
 
 
     
-![png](output_2_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__2_1.png)
     
 
 
@@ -68,7 +68,7 @@ plt.pie(x = groupedbypm['Nameplate Capacity (MW)'], labels = groupedbypm.index )
 
 
     
-![png](output_3_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__3_1.png)
     
 
 
@@ -105,7 +105,7 @@ pvdata['ILR'].plot.box(figsize = (4,8) )
 
 
     
-![png](output_6_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__6_1.png)
     
 
 
@@ -124,7 +124,7 @@ plt.plot(pvdata['Tilt Angle'], pvdata['ILR'], 'o')
 
 
     
-![png](output_7_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__7_1.png)
     
 
 
@@ -228,7 +228,7 @@ sma.graphics.plot_partregress_grid(model).tight_layout(pad=1.0)
 
 
     
-![png](output_15_0.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__15_0.png)
     
 
 
@@ -239,7 +239,7 @@ sma.graphics.plot_regress_exog(model,"pvdata['Tilt Angle']" ).tight_layout(pad=1
 
 
     
-![png](output_16_0.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__16_0.png)
     
 
 
@@ -250,7 +250,7 @@ sma.graphics.plot_regress_exog(model,"pvdata['Operating Year']" ).tight_layout(p
 
 
     
-![png](output_17_0.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__17_0.png)
     
 
 
@@ -268,7 +268,7 @@ plt.plot(model.fittedvalues,model.resid,   'o')
 
 
     
-![png](output_18_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__18_1.png)
     
 
 
@@ -288,7 +288,7 @@ plt.plot(model.fittedvalues[model.resid<0], model.resid[model.resid<0],   'o')
 
 
     
-![png](output_20_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__20_1.png)
     
 
 
@@ -308,7 +308,7 @@ plt.plot(pvdata['yhat'][pvdata['ILR']==1], pvdata['resid'][pvdata['ILR']==1],  '
 
 
     
-![png](output_22_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__22_1.png)
     
 
 
@@ -333,19 +333,19 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__24_1.png)
     
 
 
 
     
-![png](output_24_2.png)
+![png](_posts\2020-10-30-regression-notebook-1/output__24_2.png)
     
 
 
